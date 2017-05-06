@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+/*Navbar*/
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+	margin-top: 1%;
+	
+	
+}
+
+.navbar .navbar-nav > li > a{
+	color: red;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 160%;
+}
+
+
+
+
+.navbar .navbar-brand{
+	
+		color: red;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 160%;
+	
+}
+
+.navbar .active{
+	color: red;
+}
+
+
+.navbar-wrapper > .container {
+  padding-right: 0;
+  padding-left: 0;
+}
+.navbar-wrapper .navbar {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.navbar-wrapper .navbar .container {
+  width: auto;
+}
+
+.navbar-wrapper{
+	color: red;
+	
+}
+
+
+
+
+h3{
+	text-align: center;
+}
+
+.page-header{
+	color: white;
+	text-shadow: 3px 3px black;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	margin-top: 7%;
+}
+
+body{
+	background:linear-gradient(-90deg,#a31c18,#ea302a,#a31c18);
+}
+
+.row h3{
+	color: red;
+}
+
+footer{
+	color: white;
+}
+
